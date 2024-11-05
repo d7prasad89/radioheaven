@@ -15,6 +15,10 @@ function App() {
         <p>
           Listen to your favourite music and sermons
         </p>
+          <div className="card">
+              <button>Songs</button> &nbsp;
+              <button>Sermons</button>
+          </div>
       </div>
     </>
   )
