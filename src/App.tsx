@@ -13,7 +13,7 @@ function App() {
           Explore
         </button>
         <p>
-          Listen to your favourite music and sermons
+          Listen to your favourite music and sermons and more
         </p>
           <div className="card">
               <button>Songs</button> &nbsp;
